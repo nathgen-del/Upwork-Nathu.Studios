@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Smooth, standard rounded app background -->
+  <rect width="100" height="100" rx="24" fill="#171717" />
+  
+  <!-- Clean, professional, rounded 'N' in white/gray -->
+  <path d="M32 72 V28 L68 72 V28" stroke="#e5e5e5" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  
+  <!-- A simple, modern dot in your brand's acid-green color -->
+  <circle cx="68" cy="28" r="6" fill="#ccff00" />
+</svg>
